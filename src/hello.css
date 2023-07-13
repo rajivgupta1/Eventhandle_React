@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #d2dbdd;
+    background-color: purple;
 }
 
 div{
@@ -15,14 +15,31 @@ div{
 }
 
 .btn{
-    padding: 15px 20px;
-    background: #9b59b6;
+    padding: 0 20px;
+    background: wheat;
     color:#fff ;
     border: 2px solid #ecf0f1;
     outline: none;
     cursor: pointer;
     border-radius: 5px;
     text-transform: uppercase;
+    line-height: 24px;
+    cursor: pointer;
+
 }
+
+input{
+
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+    background-color:orange;
+    color: #000;
+}
+
+
 
 
